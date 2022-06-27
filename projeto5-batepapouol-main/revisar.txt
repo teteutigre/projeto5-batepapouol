@@ -1,2 +1,0 @@
-refazer function enviarMensagem
-refazer linha 35,36
